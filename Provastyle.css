@@ -1,0 +1,92 @@
+.bordamaior {
+    width: 700px;
+    height: 890px;
+    border: solid #f0f0f0 2px;
+    margin: 20px;
+}
+
+.bordadecima {
+    width:  680px;
+    height: 150px;
+    border: solid #e40893 2px;
+    margin-top: 0px;
+    margin-left: 8px;
+    margin-bottom: 9px;
+}
+
+.bordaesq {
+    float: right;
+    width: 247px;
+    height: 450px;
+    border: solid #9dd0eb 2px;
+    margin-left: 4px;
+    margin-right: 9px;
+}
+
+.bordadir {
+    float: left;
+    display: block;
+    width: 417px;
+    height: 450px;
+    border: solid #ade1d2 2px;
+    margin-left: 9px;
+    margin-right: 4px;
+
+}
+
+.bordabaixo {
+
+    width:  680px;
+    height: 180px;
+    border: solid #ff9938 2px;
+    margin-top: 472px;
+    margin-left: 8px;
+    margin-bottom: 9px;
+
+}
+
+.clear {
+    clear:both
+}
+
+.topo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 150px;
+    margin-left: 20px;
+    color: #e40893;
+    font-size: x-large;
+}
+
+.esqfont {
+    font-family: Roboto; font-weight: bold;
+    line-height: 450px;
+    margin-left: 20px;
+    color: #ade1d2;
+    font-size: x-large;
+}
+
+.dirfont {
+    font-family: Roboto; font-weight: bold;
+    line-height: 450px;
+    margin-left: 20px;
+    color: #9dd0eb;
+    font-size: x-large;
+}
+
+.baixofont {
+    font-family: Roboto; font-weight: bold;
+    line-height: 180px;
+    margin-left: 20px;
+    color: #ff9938;
+    font-size: x-large;
+}
+
+.global {
+
+    font-family: Roboto; font-weight: bold;
+    line-height: 70px;
+    margin-left: 20px;
+    color: #f0f0f0;
+    font-size: x-large;
+
+}
